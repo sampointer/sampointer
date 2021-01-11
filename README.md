@@ -13,7 +13,7 @@ Cloud Infrastructure. In general, that's the easy bit.
 
 If you've read this far then I can trust you enough to tell you I'm also the
 mystery operator of [runson.cloud][runson]. The service aggregates [public IP
-address range manifests][ranges] from prominent cloud providers and CDNs and
+address range manifests][awsip] from prominent cloud providers and CDNs and
 provides two different query interfaces over then. The code for the service
 isn't public but the [libraries][digaws] [it is][digaz] [built on][digg] are.
 [`digaws`][digaws] was featured in the [Last Week In AWS newsletter][lastweek].
