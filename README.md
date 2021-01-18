@@ -18,6 +18,8 @@ provides two different query interfaces over them. The code for the service
 isn't public but the [libraries][digaws] [it is][digaz] [built on][digg] are.
 [`digaws`][digaws] was featured in the [Last Week In AWS newsletter][lastweek].
 
+I'm available for hire.
+
 [ape]: https://spaceapegames.com/
 [awsip]: https://ip-ranges.amazonaws.com/ip-ranges.json
 [digaws]: https://github.com/sampointer/digaws
