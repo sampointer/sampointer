@@ -18,7 +18,7 @@ provides two different query interfaces over them. The code for the service
 isn't public but the [libraries][digaws] [it is][digaz] [built on][digg] are.
 [`digaws`][digaws] was featured in the [Last Week In AWS newsletter][lastweek].
 
-I'm available for hire.
+[I'm available for hire][cv].
 
 [ape]: https://spaceapegames.com/
 [awsip]: https://ip-ranges.amazonaws.com/ip-ranges.json
@@ -29,3 +29,4 @@ I'm available for hire.
 [hive]: https://www.hivehome.com/
 [runson]: https://runson.cloud/
 [lastweek]: https://www.lastweekinaws.com/newsletter/some-cloud-shells-take-years-to-form/
+[cv]: https://github.com/sampointer/cv
