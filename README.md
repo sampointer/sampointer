@@ -12,11 +12,7 @@ I'm an SRE. I write software to automate the provisioning and maintenance of
 Cloud Infrastructure. In general, that's the easy bit.
 
 If you've read this far then I can trust you enough to tell you I'm also the
-mystery operator of [runson.cloud][runson]. The service aggregates [public IP
-address range manifests][awsip] from prominent cloud providers and CDNs and
-provides two different query interfaces over them. The code for the service
-isn't public but the [libraries][digaws] [it is][digaz] [built on][digg] are.
-[`digaws`][digaws] was featured in the [Last Week In AWS newsletter][lastweek].
+original author of [runson.cloud][runson].
 
 [ape]: https://spaceapegames.com/
 [awsip]: https://ip-ranges.amazonaws.com/ip-ranges.json
