@@ -12,7 +12,7 @@ I'm an SRE. I write software to automate the provisioning and maintenance of
 Cloud Infrastructure. In general, that's the easy bit.
 
 If you've read this far then I can trust you enough to tell you I'm also the
-original author of [runson.cloud][runson].
+original author of [runson.cloud][runson], although that project has long since been taken over by other maintainers.
 
 [ape]: https://spaceapegames.com/
 [awsip]: https://ip-ranges.amazonaws.com/ip-ranges.json
